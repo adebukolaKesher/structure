@@ -18,6 +18,10 @@ h1{
 }
 span{
     color: red;
+} 
+div{
+    color:red;
+    border:1px solid blue;
 }
 ul{
     color: green;
