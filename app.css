@@ -1,14 +1,22 @@
+body{
+    background-color: yellow
+}
+
+
 p{ 
-    color:brown; 
+color:rgb(54, 42, 165); 
+background-color: aqua;
     font-size: 20px;
     font-weight: 600;
 }
 a {
     color:red;
 } 
-h2{
-    color:magenta;
-} 
 h1{
-    background-color:yellow;;
+   color:blue;
+   background-color: #e5dfec5d   
+}
+h2{
+    background-color:purple;
+    opacity:0.9;
 }
