@@ -4,7 +4,7 @@ body{
 
 
 p{ 
-color:rgb(54, 42, 165); 
+color:brown; 
 background-color: aqua;
     font-size: 20px;
     font-weight: 600;
@@ -15,6 +15,12 @@ a {
 h1{
    color:blue;
    background-color: #e5dfec5d   
+}
+span{
+    color: orangered;
+}
+ul{
+    color: green;
 }
 h2{
     background-color:purple;
