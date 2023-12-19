@@ -7,7 +7,8 @@ p{
 color:brown; 
 background-color: aqua;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 600; 
+    border:inherit;    
 }
 a {
     color:red;
