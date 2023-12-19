@@ -1,5 +1,9 @@
 body{
-    background-color: yellow
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-size: medium;
+    font-style: normal;
 }
 
 
@@ -12,10 +16,17 @@ background-color: aqua;
 }
 a {
     color:red;
+    font-size: 20px;
+    font-weight: 400;
+    font-style:italic;
 } 
 h1{
    color:blue;
-   background-color: #e5dfec5d   
+   background-color: #e5dfec5d;
+   font-family: 'Courier New', Courier, monospace ;
+   font-size: 60px;
+   font-weight: 800;
+   font-style: italic;
 }
 span{
     color: red;
@@ -30,4 +41,8 @@ ul{
 h2{
     background-color:purple;
     opacity:0.9;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+    font-weight:bold;
 }
+
