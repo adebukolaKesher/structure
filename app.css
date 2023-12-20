@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: yellowgreen;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 100;
     font-size: medium;
@@ -7,8 +7,11 @@ body{
     direction: justify;
 }
 
+.ceo{
+    color:blue;
+    }
 
-p{ 
+    p{ 
 color:black; 
 background-color: aqua;
     font-size: 20px;
@@ -17,12 +20,21 @@ background-color: aqua;
     word-spacing: 15px;   
     line-height: 2;
 }
+
 a {
     color:blue;
     font-size: 20px;
     font-weight: 400;
     font-style:italic;
+    font-weight: bolder;
 } 
+
+href {
+font-size: medium;
+font-weight: bold;
+text-decoration:wavy
+}
+
 h1{
    color:blue;
    background-color: #e5dfec5d;
@@ -39,22 +51,44 @@ h1{
    text-decoration-style: wavy;
    text-decoration-thickness: 10px;
 }
+
+*{
+    border: green;
+}
+
 span{
     color: red;
+    background-color: gold;
 } 
+
+#services {
+    color:darkblue;
+}
+
+
 div{
     color:blue;
-    border:1px solid blue;
+    border: 30px solid blue;
 }
+
 ul{
     color: rgb(0, 104, 0);
 }
+
 h2{
-    background-color:purple;
+    background-color:blue;
     opacity:0.9;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size:medium;
-    font-weight:bold;
+    font-size:larger;
+    font-weight:bolder;
     text-shadow: magenta 2px 2px 5px;
 }
 
+h3 {
+    text-decoration-thickness: 10px;
+    text-decoration-line:underline;
+}
+
+ul {
+    list-style-type:square;
+}
