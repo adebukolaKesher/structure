@@ -21,6 +21,16 @@ background-color: yellowgreen;
     line-height: 2;
 }
 
+
+
+.tag{
+    color:black;
+}
+
+.tag, .ceo{
+    background-color:chartreuse;
+}
+
 a {
     color:blue;
     font-size: 20px;
@@ -28,6 +38,10 @@ a {
     font-style:italic;
     font-weight: bolder;
 } 
+
+#reviews{
+    color: indigo;
+}
 
 href {
 font-size: medium;
