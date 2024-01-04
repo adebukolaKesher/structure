@@ -11,17 +11,19 @@ body{
     color:orangered;
     }
 
-    p{ 
-color:black; 
-background-color: yellowgreen;
-    font-size: 20px;
-    font-weight: 600; 
-    border:inherit; 
-    word-spacing: 15px;   
-    line-height: 2;
+img{
+    height: 32rem;
 }
 
+.review1{
+    display: flex;
+} 
 
+.review-image{
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+}
 
 .tag{
     color:black;
@@ -41,34 +43,20 @@ a {
 
 #reviews{
     color: indigo;
-}
+} 
 
+ul > li{
+    border:1px solid red ;
+}
 href {
 font-size: medium;
 font-weight: bold;
 text-decoration:wavy
 }
 
-h1{
-   color:orangered;
-   background-color: #e5dfec5d;
-   font-family: 'Courier New', Courier, monospace ;
-   font-size: 60px;
-   font-weight: 800;
-   font-style: italic;
-   text-align:left;
-   letter-spacing: 10px;
-   text-shadow: green 2px 2px 10px;
-   text-transform: capitalize;
-   text-decoration:underline;
-   text-decoration-color: green;
-   text-decoration-style: wavy;
-   text-decoration-thickness: 10px;
-}
 
-*{
-    border: green;
-}
+
+
 
 span{
     color: red;
