@@ -1,5 +1,5 @@
 body{
-    background-color: yellowgreen;
+    background-color: rgb(209, 230, 146);
     font-family: 'Courier New', Courier, monospace;
     font-weight: 100;
     font-size: medium;
@@ -102,9 +102,15 @@ h1{
     width: 400px;
     height: 200px;
     border: 2px solid black;
-} 
+}  
+
+#link{
+    font-size: 30px;
+    border: 1px solid red;
+    padding: 10px;
+}
 .box{
-    border: 1px solid orange;
+    border: 1px solid green;
     height: 60%;
     width: 25%;
 }
