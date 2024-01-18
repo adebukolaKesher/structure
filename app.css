@@ -70,7 +70,6 @@ span{
 
 div{
     color:orangered;
-    border: 30px solid green;
 }
 
 ul{
@@ -92,6 +91,24 @@ h2{
 h3 {
     text-decoration-thickness: 10px;
     text-decoration-line:underline;
+} 
+
+h1{
+    width: 500px;
+    height: 40px;
+    border: 2px double green;
+} 
+#container{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+} 
+.box{
+    border: 1px solid orange;
+    height: 60%;
+    width: 25%;
+}
+
 }
 
 ul {
