@@ -46,7 +46,7 @@ a {
 } 
 
 ul > li{
-    border:1px solid red ;
+    border-bottom: 3px dotted mintcream ;
 }
 href {
 font-size: medium;
