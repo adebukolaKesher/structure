@@ -104,6 +104,10 @@ h1{
      margin: -20px;
 
 } 
+h1 + p{
+    color: deeppink;
+}
+
 #container{
     /*width: 400px;
     height: 200px;
