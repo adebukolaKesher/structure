@@ -104,10 +104,16 @@ h1{
      margin: -20px;
 
 } 
+h1:hover{
+    color:orangered;
+}
 h1 + p{
     color: deeppink;
 }
 
+a:visited{
+    color:yellow;
+}
 #container{
     /*width: 400px;
     height: 200px;
@@ -183,8 +189,6 @@ h5{
 
 }
 
-
-
 ul {
     list-style-type:square;
 } 
@@ -192,4 +196,11 @@ ul {
 p{
    /* border: 1px solid mediumaquamarine; 
     margin: 20px 0 50px 0;*/
+} 
+ul:nth-of-type(2){
+    border: 1px solid black;
+} 
+
+button:active{
+    background-color: pink;
 }
