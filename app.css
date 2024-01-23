@@ -204,3 +204,7 @@ ul:nth-of-type(2){
 button:active{
     background-color: pink;
 }
+
+input:focus{
+    border: 5px solid blueviolet;
+}
