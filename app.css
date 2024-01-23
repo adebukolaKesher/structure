@@ -222,8 +222,15 @@ p::first-letter{
 
 p{
     color: sienna;
+    font-family:
 } 
 
 .featured{
     color: blue;
+    font-size: 20px;
+} 
+
+#major{
+    color: navy;
+    font-size: 10px;
 }
