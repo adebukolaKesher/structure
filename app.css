@@ -107,10 +107,12 @@ h1{
 h1:hover{
     color:orangered;
 }
-h1 + p{
-    color: deeppink;
+h1+p{
+color: deeppink;
 }
-
+ h3{
+    /*color: purple !important;*/
+ }
 a:visited{
     color:yellow;
 }
@@ -176,8 +178,6 @@ h5{
     margin: 0 auto;
     border-radius: 30px;
     box-shadow: 10px 5px 10px red, /*-1px -1px 5px purple;*/
-    
-
 }
 #word{
     border: 10px solid green;
@@ -198,7 +198,7 @@ p{
     margin: 20px 0 50px 0;*/
 } 
 ul:nth-of-type(2){
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 } 
 
 button:active{
@@ -226,8 +226,8 @@ p{
 } 
 
 .featured{
-    color: blue;
-    font-size: 20px;
+    /*color: blue;
+    font-size: 20px;*/
 } 
 
 #major{
