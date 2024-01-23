@@ -215,7 +215,15 @@ p::first-line{
 } 
 
 p::first-letter{
-    color: blue;
+   /* color: blue;
     text-transform: uppercase;
-    font-size: 200%;
+    font-size: 200%;*/
+} 
+
+p{
+    color: sienna;
+} 
+
+.featured{
+    color: blue;
 }
