@@ -222,7 +222,7 @@ p::first-letter{
 
 p{
     color: sienna;
-    font-family:
+    line-height: 100%;
 } 
 
 .featured{
