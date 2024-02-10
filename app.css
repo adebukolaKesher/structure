@@ -67,8 +67,9 @@ span{
 
 
 div{
-    color:green;
+    color:black;
     font-style: italic;
+    font-size: 22px;
 }
 
 ul{
@@ -234,9 +235,10 @@ p{
     font-size: 10px;
 } 
 #container{
-    width: 100vw;
-    height: 100vh;
+    width: 50vw;
+    height:50vh;
     border: 2px solid black;
-    background-color: blueviolet;
+    background-image:url("chef.jpg");
+    background-color:orange;
     
 }  
