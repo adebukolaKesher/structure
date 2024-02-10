@@ -237,14 +237,15 @@ p{
 #container{
     width: 50vw;
     height:50vh;
-    border: 20px dashed black;
-    background-image:url("chef.jpg");
+    border: 2px dashed black;
+   /* background-image:url("chef.jpg");*/
     /*background-color:orange;*/
    /*background-size: cover;*/
   /* background-size: 50% 50%;
    background-position:bottom left;*/ 
-   padding: 20px;
-   background-clip:content-box;
+   /*padding: 20px;
+   background-clip:content-box;*/ 
+   background-image: linear-gradient(cyan, magenta 50%);
 
     
 }  
