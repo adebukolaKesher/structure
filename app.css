@@ -245,7 +245,9 @@ p{
    background-position:bottom left;*/ 
    /*padding: 20px;
    background-clip:content-box;*/ 
-   background-image: linear-gradient(cyan, magenta 50%);
+   /*background-image:radial-gradient(cyan,pink,purple);*/
+    /*linear-gradient(cyan, magenta 50%);*/
+    background-image: repeating-radial-gradient(cyan,pink,purple);
 
     
 }  
