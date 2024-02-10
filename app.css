@@ -240,5 +240,7 @@ p{
     border: 2px solid black;
     background-image:url("chef.jpg");
     background-color:orange;
+   /* background-size: cover;*/
+   background-size: 50% 50%;
     
 }  
