@@ -11,7 +11,22 @@ body{
         color: white;
         text-decoration: none;
         border: 2px solid white;
-        padding: 15px 30px;
+        padding: 15px 50px;
         border-radius: 4px;
+        position: relative;
+        background-color:rgba(0 0 0 0.1);
+        box-shadow: 0 2px 10px rgba(0, 0, 0,0.15);
+    } 
+    .badge{
+        background-color: #4caf50;
+        border: 2px solid white;
+        padding: 5px 10px;
+        border-radius: 50%;
+        position: absolute;
+        top:-10px;
+        right:-10px;
+       /* position: relative;
+       top: -30px;
+        left: 40px;*/
     }
     
