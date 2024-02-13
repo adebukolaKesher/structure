@@ -7,6 +7,14 @@
 } 
 .first{
     background-color: orangered;
-    /*transform: translateY(400px);*/
-    transform: translate(100px 200px);
-}
+    /*transform: translate(100px 200px);*/
+    /*transform: rotate(45deg);
+    margin-left: 400px;*/
+    transform: scale(4);
+} 
+h1{
+    /*transform: rotateX(-20deg);*/
+    border: 1px solid black;
+    display: inline-block;
+    /*transform: scale(5);*/
+} 
