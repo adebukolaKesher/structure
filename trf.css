@@ -1,0 +1,12 @@
+.box{
+    background-color: olive;
+    width: 100px;
+    height: 100px;
+   /* transform: translateX(400px);*/
+   display: inline-block;
+} 
+.first{
+    background-color: orangered;
+    /*transform: translateY(400px);*/
+    transform: translate(100px 200px);
+}
