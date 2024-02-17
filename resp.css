@@ -1,4 +1,13 @@
-body{
+h1{
+    font-size: 3rem;
+} 
+@media only print{
+    h1{
+        font-size: 10rem;
+    }
+}
+
+/*body{
     background-color: red;
 } 
 @media (min-width:800px){
@@ -10,4 +19,4 @@ body{
     body{
         background-color: yellow;
     }
-}
+}*/
